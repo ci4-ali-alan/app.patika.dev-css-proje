@@ -1,0 +1,51 @@
+* {
+    text-align: center;
+}
+
+h1 {
+    color: tomato;
+}
+.imgs {
+    position: relative;
+    left: 5em;
+}
+.python {
+    width: 200px;
+    height: 175px;
+    position: relative;
+    top:16px;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 3em;
+}
+
+a {
+    text-decoration: none;
+    font-size: 1.8em;
+    color: teal;
+}
+
+/* Python Sayfası */
+
+.py {
+    font-size: 2em;
+    color: rgba(4, 16, 249, 0.67);
+    text-shadow: 2px 2px 2px rgba(255, 255, 5, 0.696);
+}
+
+/* Java Sayfası */
+
+.java {
+    font-size: 2.2em;
+    color: orange;
+}
+
+/* C# Sayfası */
+
+.csharp {
+    font-size: 2.2em;
+    color: purple;
+}
